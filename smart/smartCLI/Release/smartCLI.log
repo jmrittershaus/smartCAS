@@ -1,0 +1,14 @@
+﻿Der Buildvorgang wurde am 11.07.2020 12:38:38 gestartet.
+     1>Projekt "C:\Users\jmrittershaus\Desktop\HSi\GitPortable\Data\home\smartCAS\smart\smartCLI\smartCLI.vcxproj" auf Knoten "2", rebuild Ziel(e).
+     1>InitializeBuildStatus:
+         "Release\smartCLI.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(147,5): error MSB6006: "CL.exe" wurde mit dem Code 2 beendet.
+     1>c:\users\jmrittershaus\desktop\hsi\gitportable\data\home\smartcas\smart\smartcli\stdafx.h(11): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "smartAPP.jMr": No such file or directory
+     1>Die Erstellung des Projekts "C:\Users\jmrittershaus\Desktop\HSi\GitPortable\Data\home\smartCAS\smart\smartCLI\smartCLI.vcxproj" ist abgeschlossen, rebuild Ziel(e) -- FEHLER.
+
+Fehler beim Erstellen
+
+Verstrichene Zeit 00:00:00.54

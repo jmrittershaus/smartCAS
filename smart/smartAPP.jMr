@@ -1,0 +1,10 @@
+
+#ifndef _SMARTAPP_H_
+#define _SMARTAPP_H_
+
+#if     !defined(_WIN32)
+#error ERROR: Only Win32 target supported!
+
+#if     !defined(_WIN17)
+#error ERROR: Only Win17 target supported!
+#endif
